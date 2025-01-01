@@ -48,9 +48,9 @@
   },
   "devDependencies": {
     "@ajiu9/eslint-config": "^2.5.0",
-    "@antfu/utils": "^0.7.10",
     "@types/node": "^22.5.4",
     "bumpp": "^9.5.2",
+    "comuse": "^2.1.0",
     "eslint": "^9.9.1",
     "lint-staged": "^15.2.10",
     "pnpm": "^9.9.0",
